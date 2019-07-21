@@ -1,1 +1,1 @@
-# KNN-Face-Recognition
+# KNN-Face-Recognition-OpenCV
